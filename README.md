@@ -15,7 +15,7 @@ ________________________________________
 
 ________________________________________
 📂 Dataset Information
-•	Source: Kaggle
+•	Source: Kaggle (https://www.kaggle.com/datasets/alanjo/comprehensive-banking-database?select=Comprehensive_Banking_Database.csv)
 •	Dataset Name: Comprehensive Banking Database
 •	Records: 5,000 rows
 •	Features: 40 columns
